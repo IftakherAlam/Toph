@@ -30,7 +30,7 @@ int main()
 
         else
         {
-            printf("%d BALLS\n",cnt);
+            
             int over=cnt/6;
 
             int rem=cnt%6;
